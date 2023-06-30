@@ -1,0 +1,77 @@
+[
+{
+    "type": "web",
+    "title": "CSS animation based on Figma design document",
+    "url": "https://codepen.io/guildshark/pen/oNWbRrM",
+    "description": "This is a CSS animation I made for a software company we were thinking of starting based on a Figma document.",
+    "image": "codepenLogo.png" 
+},
+{
+    "type": "web",
+    "title": "An HTML email template clone of the Codepen newsletter",
+    "url": "https://codepen.io/guildshark/pen/bGWNZbr",
+    "description": "My father and I were thinking of becoming email developers. So I recreated this HTML email newsletter from Code Pen.",
+    "image": "My father and I were thinking of becoming email developers. So I recreated this HTML email newsletter from Code Pen." 
+},
+{
+    "type": "web",
+    "title": "An HTML promotional email template",
+    "url": "https://codepen.io/guildshark/pen/mdWNmWm",
+    "description": "This Is an email template I created based on an existing email as practice for HTML email development.",
+    "image": "placeholder.jpg" 
+},
+{
+    "type": "sec",
+    "title": "Javascript based virus",
+    "url": "https://codepen.io/guildshark/pen/oNjRXON",
+    "description": "This is a fun little website that overloads your computer with browser tabs and can sometimes crash your device. You probably do not want to click the button.",
+    "image": "placeholder.jpg" 
+},
+{
+    "type": "web",
+    "title": "Weapons display ",
+    "url": "https://codepen.io/guildshark/pen/poJWzRO",
+    "description": "This is an inventory UI system for a game. I was quite happy with the way it turned out. I have reused it in several game-dev projects.",
+    "image": "placeholder.jpg" 
+}
+,
+{
+    "type": "web",
+    "title": "A basic 3d test",
+    "url": "https://codepen.io/guildshark/pen/PowWyxa",
+    "description": "The title says it all. I was attempting to build a javascript 3d engine but I figured it would now be with the work but it was a fun experiment. I eventually chose to go with the Three.js Libarry for 3d web-based graphics.",
+    "image": "placeholder.jpg" 
+}
+,
+{
+    "type": "sec",
+    "title": "Stolen code for phishing emails",
+    "url": "https://codepen.io/guildshark/pen/oNNbaNB",
+    "description": "This was before I was interested in HTML email development and I was testing if I could take a linked-in email template put my own info in it and use it as a phishing attack that would harvest the victim's credentials.",
+    "image": "placeholder.jpg" 
+}
+,
+{
+    "type": "web",
+    "title": "Pure CCS game",
+    "url": "https://codepen.io/guildshark/pen/ExYeReY",
+    "description": "I got inspired by all the pure CSS games circulating on Code Pen. This was my attempt at one.",
+    "image": "placeholder.jpg" 
+}
+,
+{
+    "type": "web",
+    "title": "SASS pixel art",
+    "url": "https://codepen.io/guildshark/pen/PMzYKL",
+    "description": "The title says it all. It was a fun little project where I made pixel art with just SASS.",
+    "image": "placeholder.jpg" 
+}
+,
+{
+    "type": "web",
+    "title": "CSS 3d cube ",
+    "url": "https://codepen.io/guildshark/pen/YoJQbM",
+    "description": "One of my many forays into web-based 3d graphics.",
+    "image": "placeholder.jpg" 
+}
+]
