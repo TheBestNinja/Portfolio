@@ -106,18 +106,6 @@ a{
 }
 
 
-@media screen and (max-device-width: 4in) and (orientation: portrait){
-    .card-main{
-        border: 0.2rem solid rgb(143, 20, 141);
-        border-radius: 3%;
-        padding: 1rem;
-        width: 20vw;
-        height: max-content;
-        margin: auto;
-        margin-bottom: 2vw;
-    }
-}
-
 @media screen and (max-device-width: 4in) and (orientation: landscape){
     .card-main{
         border: 0.2rem solid rgb(20, 143, 34);
@@ -125,6 +113,19 @@ a{
         padding: 1rem;
         width: 80vw;  
         height: 80vw; 
+        margin: auto;
+        margin-bottom: 2vw;
+    }
+}
+
+
+@media screen and (max-device-width: 4in) and (orientation: portrait){
+    .card-main{
+        border: 0.2rem solid rgb(143, 49, 20);
+        border-radius: 3%;
+        padding: 1rem;
+        width: 20vw;
+        height: max-content;
         margin: auto;
         margin-bottom: 2vw;
     }
