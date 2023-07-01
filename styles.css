@@ -120,7 +120,7 @@ a{
 
 @media screen and (max-device-width: 4in) and (orientation: landscape){
     .card-main{
-        border: 0.2rem solid rgb(143, 20, 20);
+        border: 0.2rem solid rgb(20, 143, 34);
         border-radius: 3%;
         padding: 1rem;
         width: 80vw;  
