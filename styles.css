@@ -17,13 +17,19 @@ header{
     width: 35vw;
     margin: auto;
 }
+
 .card-main{
     border: 0.2rem solid white;
     border-radius: 3%;
     padding: 1rem;
-    width: 40vw; 
+    width: 38vw; 
+    height: 38vw; 
+    min-width: 500px;
     margin: auto;
+    margin-bottom: 2vw;
 }
+
+
 .card-img-top{
     width: 45vw;
     height: 30vw;
@@ -43,8 +49,7 @@ p{
     
 }
 h1{
-    color: white;
-    
+    color: white; 
 }
 h6{
     color: white;
@@ -70,9 +75,7 @@ span{
     border-radius: 4% 4% 0 0;
 }
 .tab{
-
-    font-size: small;
-    
+    font-size: small; 
 }
 .logo{
     width: 2vw;
@@ -91,4 +94,25 @@ span{
 }
 a{
     text-decoration: none;
+}
+.cardrow{
+    
+    margin: auto;
+    width: fit-content;
+}
+#cards{
+    margin: auto;
+    width: 80vw;
+}
+
+
+@media screen and (max-device-width: 2796px) {
+    .card-main{
+        border: 0.2rem solid rgb(143, 20, 20);
+        border-radius: 3%;
+        padding: 1rem;
+        width: 80vw;  
+        margin: auto;
+        margin-bottom: 2vw;
+    }
 }
