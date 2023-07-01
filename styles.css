@@ -121,7 +121,7 @@ a{
 
 @media screen and (max-device-width: 4in) and (orientation: portrait){
     .card-main{
-        border: 0.2rem solid rgb(143, 49, 20);
+        border: 0.2rem solid rgb(38, 20, 143);
         border-radius: 3%;
         padding: 1rem;
         
