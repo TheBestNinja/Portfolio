@@ -124,9 +124,8 @@ a{
         border: 0.2rem solid rgb(143, 49, 20);
         border-radius: 3%;
         padding: 1rem;
-        width: 20vw;
-        height: 20vw;
-        height: max-content;
+        
+       
         margin: auto;
         margin-bottom: 2vw;
     }
