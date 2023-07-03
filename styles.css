@@ -4,24 +4,13 @@
     border: 0.2rem solid white;
     border-radius: 3%;
     padding: 1rem;
-    width: 38vw; 
-    height: 38vw; 
+    width: 100px; 
+    height: 100px; 
     min-width: 500px;
     margin: auto;
     margin-bottom: 2vw;
 }
 
-@media screen and (max-device-width: 4in) and (orientation: landscape){
-    .card-main{
-        border: 0.2rem solid rgb(20, 143, 34);
-        border-radius: 3%;
-        padding: 1rem;
-        width: 100px;  
-        height:  100px; 
-        margin: auto;
-        margin-bottom: 2vw;
-    }
-}
 
 
 @media screen and (max-device-width: 4in) and (orientation: portrait){
