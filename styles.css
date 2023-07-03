@@ -1,22 +1,4 @@
-body{
-    background: black;
-}
-header{
-    background-color: black;     
-}
-.card-img-top{
-    background-color: black;  
-    width: 40vw;
-}
-.card-body{
-    background-color: black;  
-    width: 40vw;
-}
-.card-text{
-    background-color: black;  
-    width: 35vw;
-    margin: auto;
-}
+
 
 .card-main{
     border: 0.2rem solid white;
@@ -28,83 +10,6 @@ header{
     margin: auto;
     margin-bottom: 2vw;
 }
-
-
-.card-img-top{
-    width: 45vw;
-    height: 30vw;
-    background: url('placeholder.jpg');
-    background-size: cover;
-    border-radius: 3%;
-}
-
-.container{
-    border-color: red;
-}
-h3{
-    color: white;
-}
-p{
-    color: white;
-    
-}
-h1{
-    color: white; 
-}
-h6{
-    color: white;
-}
-
-span{
-    color: #c9bebe;
-}
-.nav-link{
-    color: white;
-}
-.nav-link:hover{
-    color: rgb(230, 206, 206);
-}
-.activeLink{
-    background: white;
-    color: black;
-    border-radius: 4%;
-}
-.activeTab{
-    background: white;
-    color: black;
-    border-radius: 4% 4% 0 0;
-}
-.tab{
-    font-size: small; 
-}
-.logo{
-    width: 2vw;
-    border-radius: 4%;
-    background-color: white;
-}
-.sort{
-    width: max-content;
-    float: left;
-    padding-left: 2vw;
-    
-}
-.sortconatiner{
-    width: 80vw;
-    float: left;
-}
-a{
-    text-decoration: none;
-}
-.cardrow{
-    
-    margin: auto;
-    width: fit-content;
-}
-#cards{
-    margin: auto;
-    width: 80vw;
-}
-
 
 @media screen and (max-device-width: 4in) and (orientation: landscape){
     .card-main{
