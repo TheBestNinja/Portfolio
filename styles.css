@@ -13,13 +13,3 @@
 
 
 
-@media screen and (max-device-width: 4in) and (orientation: portrait){
-    .card-main{
-        border: 0.2rem solid rgb(67, 70, 36);
-        border-radius: 3%;
-        padding: 1rem;
-        width: 100px;
-        margin: auto;
-        margin-bottom: 2vw;
-    }
-}
