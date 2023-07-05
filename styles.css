@@ -131,7 +131,7 @@ a{
         margin: auto;
     }
     .tab{
-        font-size: large;
+        font-size: 1vw;
     }
     .logo{
         width: 4vw;
@@ -140,7 +140,7 @@ a{
     }
     h3{
         color: white;
-        font-size: larger;
+        font-size: large;
     }
 }
 
@@ -175,7 +175,7 @@ a{
         margin: auto;
     }
     .tab{
-        font-size: large;
+        font-size: 1vw;
     }
     .logo{
         width: 4vw;
@@ -184,6 +184,6 @@ a{
     }
     h3{
         color: white;
-        font-size: larger;
+        font-size: large;
     }
 }
