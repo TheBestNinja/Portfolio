@@ -116,6 +116,32 @@ a{
         margin: auto;
         margin-bottom: 2vw;
     }
+
+    .card-img-top{
+        width: 75vw;
+        height: 60vw;
+        background: url('placeholder.jpg');
+        background-size: cover;
+        border-radius: 3%;
+    }
+
+    .card-text{
+        background-color: black;  
+        width: 75vw;
+        margin: auto;
+    }
+    .tab{
+        font-size: large;
+    }
+    .logo{
+        width: 4vw;
+        border-radius: 4%;
+        background-color: white;
+    }
+    h3{
+        color: white;
+        font-size: larger;
+    }
 }
 
 
@@ -128,5 +154,36 @@ a{
         height: fit-content;
         margin: auto;
         margin-bottom: 2vw;
+    }
+
+    .card-img-top{
+        width: 75vw;
+        height: 60vw;
+        background: url('placeholder.jpg');
+        background-size: cover;
+        border-radius: 3%;
+    }
+    .card-text{
+        background-color: black;  
+        width: 75vw;
+        margin: auto;
+    }
+
+    .sort{
+        width: max-content;
+        padding: 2vw;
+        margin: auto;
+    }
+    .tab{
+        font-size: large;
+    }
+    .logo{
+        width: 4vw;
+        border-radius: 4%;
+        background-color: white;
+    }
+    h3{
+        color: white;
+        font-size: larger;
     }
 }
