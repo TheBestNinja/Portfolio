@@ -4,20 +4,12 @@ body{
 header{
     background-color: black;     
 }
-.card-img-top{
-    background-color: black;  
-    width: 40vw;
-}
-.card-body{
-    background-color: black;  
-    width: 40vw;
-}
+
 .card-text{
     background-color: black;  
     width: 35vw;
     margin: auto;
 }
-
 
 .card-img-top{
     width: 45vw;
@@ -111,14 +103,14 @@ a{
         border: 0.2rem solid rgb(255, 255, 255);
         border-radius: 3%;
         padding: 1rem;
-        width: 80vw;  
+        width: 70vw;  
         height: fit-content;
         margin: auto;
         margin-bottom: 2vw;
     }
 
     .card-img-top{
-        width: 75vw;
+        width: 60vw;
         height: 60vw;
         background: url('placeholder.jpg');
         background-size: cover;
@@ -127,7 +119,7 @@ a{
 
     .card-text{
         background-color: black;  
-        width: 75vw;
+        width: 60vw;
         margin: auto;
     }
     .tab{
@@ -150,14 +142,14 @@ a{
         border: 0.2rem solid rgb(255, 255, 255);
         border-radius: 3%;
         padding: 1rem;
-        width: 80vw;  
+        width: 70vw;  
         height: fit-content;
         margin: auto;
         margin-bottom: 2vw;
     }
 
     .card-img-top{
-        width: 75vw;
+        width: 60vw;
         height: 60vw;
         background: url('placeholder.jpg');
         background-size: cover;
@@ -165,7 +157,7 @@ a{
     }
     .card-text{
         background-color: black;  
-        width: 75vw;
+        width: 65vw;
         margin: auto;
     }
 
