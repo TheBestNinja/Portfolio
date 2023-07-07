@@ -174,7 +174,7 @@ a{
     .sort{
         width: max-content;
        margin: auto;
-       padding: none;    
+       padding-left: 0;    
     }
     .tab{
         font-size: 25px;
