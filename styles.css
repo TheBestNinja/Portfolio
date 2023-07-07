@@ -123,6 +123,7 @@ a{
         background-color: black;  
         width: 68vw;
         margin: auto;
+        font-size: 1vw;
     }
     .tab{
         font-size: 20px;
@@ -167,6 +168,7 @@ a{
         background-color: black;  
         width: 68vw;
         margin: auto;
+        font-size: 1vw;
     }
 
     .sort{
