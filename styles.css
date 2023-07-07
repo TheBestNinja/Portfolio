@@ -163,8 +163,8 @@ a{
 
     .sort{
         width: max-content;
-        padding: 2vw;
-        margin: auto;
+       margin: auto;
+       padding: none;    
     }
     .tab{
         font-size: 20px;
