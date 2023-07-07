@@ -102,7 +102,7 @@ a{
     .card-main{
         border: 0.2rem solid rgb(255, 255, 255);
         border-radius: 3%;
-        padding: 1rem;
+        padding: 1vw;
         width: 70vw;  
         height: fit-content;
         margin: auto;
@@ -110,16 +110,16 @@ a{
     }
 
     .card-img-top{
-        width: 60vw;
-        height: 60vw;
+        width: 68vw;
+        height: 68vw;
         background: url('placeholder.jpg');
         background-size: cover;
         border-radius: 3%;
+        margin: auto;
     }
-
     .card-text{
         background-color: black;  
-        width: 60vw;
+        width: 68vw;
         margin: auto;
     }
     .tab{
@@ -141,7 +141,7 @@ a{
     .card-main{
         border: 0.2rem solid rgb(255, 255, 255);
         border-radius: 3%;
-        padding: 1rem;
+        padding: 1vw;
         width: 70vw;  
         height: fit-content;
         margin: auto;
@@ -149,15 +149,16 @@ a{
     }
 
     .card-img-top{
-        width: 60vw;
-        height: 60vw;
+        width: 68vw;
+        height: 68vw;
         background: url('placeholder.jpg');
         background-size: cover;
         border-radius: 3%;
+        margin: auto;
     }
     .card-text{
         background-color: black;  
-        width: 65vw;
+        width: 68vw;
         margin: auto;
     }
 
@@ -167,7 +168,7 @@ a{
        padding: none;    
     }
     .tab{
-        font-size: 20px;
+        font-size: 25px;
     }
     .logo{
         width: 4vw;
