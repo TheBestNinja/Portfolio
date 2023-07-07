@@ -41,6 +41,7 @@ span{
 }
 .nav-link{
     color: white;
+
 }
 .nav-link:hover{
     color: rgb(230, 206, 206);
@@ -58,6 +59,7 @@ span{
 .tab{
     font-size: small; 
 }
+
 .logo{
     width: 2vw;
     border-radius: 4%;
@@ -125,6 +127,11 @@ a{
     .tab{
         font-size: 20px;
     }
+    .sort{
+        width: max-content;
+       margin-right: 10vw;
+         
+    }
     .logo{
         width: 4vw;
         border-radius: 4%;
@@ -132,7 +139,7 @@ a{
     }
     h3{
         color: white;
-        font-size: 1vw;
+        font-size: 3vw;
     }
 }
 
@@ -176,6 +183,10 @@ a{
         background-color: white;
     }
     h3{
+        color: white;
+        font-size: 3vw;
+    }
+    .nav-link{
         color: white;
         font-size: 3vw;
     }
