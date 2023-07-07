@@ -123,7 +123,7 @@ a{
         background-color: black;  
         width: 68vw;
         margin: auto;
-        font-size: 1vw;
+        font-size: 2vw;
     }
     .tab{
         font-size: 20px;
@@ -168,7 +168,7 @@ a{
         background-color: black;  
         width: 68vw;
         margin: auto;
-        font-size: 1vw;
+        font-size: 2vw;
     }
 
     .sort{
@@ -189,7 +189,6 @@ a{
         font-size: 3vw;
     }
     .nav-link{
-        color: white;
         font-size: 3vw;
     }
 }
