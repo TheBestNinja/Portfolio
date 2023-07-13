@@ -73,5 +73,12 @@
     "url": "https://codepen.io/guildshark/pen/YoJQbM",
     "description": "One of my many forays into web-based 3d graphics.",
     "image": "placeholder.jpg" 
+},
+{
+    "type": "webskill",
+    "title": "CSS",
+    "url": "#",
+    "description": "",
+    "image": "CSS.webp" 
 }
 ]

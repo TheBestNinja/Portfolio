@@ -34,10 +34,6 @@ function setActiveTab(input){
         element.classList.remove("activeTab");
         var element = document.getElementById("h2");
         element.classList.remove("activeTab");
-        var element = document.getElementById("3");
-        element.classList.remove("activeTab");
-        var element = document.getElementById("h3");
-        element.classList.remove("activeTab");
         var element = document.getElementById("4");
         element.classList.remove("activeTab");
         var element = document.getElementById("h4");
@@ -69,3 +65,5 @@ function setActiveTab(input){
         element.classList.add("activeTab");
     }
 }
+
+sort("all")
