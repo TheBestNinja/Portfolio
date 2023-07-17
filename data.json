@@ -4,18 +4,18 @@
     "title": "CSS animation based",
     "url": "https://codepen.io/guildshark/pen/oNWbRrM",
     "description": "This is a CSS animation I made for a software company we were thinking of starting based on a Figma document.",
-    "image": "codepenLogo.png" 
+    "image": "cssanimation.png" 
 },
 {
     "type": "web",
-    "title": "An HTML email template",
+    "title": "HTML email template",
     "url": "https://codepen.io/guildshark/pen/bGWNZbr",
     "description": "My father and I were thinking of becoming email developers. So I recreated this HTML email newsletter from Code Pen.",
-    "image": "My father and I were thinking of becoming email developers. So I recreated this HTML email newsletter from Code Pen." 
+    "image": "codepenemail.png" 
 },
 {
     "type": "web",
-    "title": "An HTML promotional email template",
+    "title": "HTML promotional email",
     "url": "https://codepen.io/guildshark/pen/mdWNmWm",
     "description": "This Is an email template I created based on an existing email as practice for HTML email development.",
     "image": "placeholder.jpg" 
@@ -79,6 +79,6 @@
     "title": "CSS",
     "url": "#",
     "description": "",
-    "image": "CSS.webp" 
+    "image": "js.PNG" 
 }
 ]
