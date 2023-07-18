@@ -99,7 +99,9 @@ a{
     margin: auto;
     margin-bottom: 2vw;
 }
-
+.card-title{
+    line-height: 50%;
+}
 @media screen and (max-device-width: 4in) and (orientation: landscape){
     .card-main{
         border: 0.2rem solid rgb(255, 255, 255);
