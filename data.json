@@ -25,14 +25,14 @@
     "title": "Javascript based virus",
     "url": "https://codepen.io/guildshark/pen/oNjRXON",
     "description": "This is a fun little website that overloads your computer with browser tabs and can sometimes crash your device. You probably do not want to click the button.",
-    "image": "placeholder.jpg" 
+    "image": "javascriptVirues.png" 
 },
 {
     "type": "web",
     "title": "Weapons display ",
     "url": "https://codepen.io/guildshark/pen/poJWzRO",
     "description": "This is an inventory UI system for a game. I was quite happy with the way it turned out. I have reused it in several game-dev projects.",
-    "image": "placeholder.jpg" 
+    "image": "invotory.png" 
 }
 ,
 {
@@ -40,7 +40,7 @@
     "title": "A basic 3d test",
     "url": "https://codepen.io/guildshark/pen/PowWyxa",
     "description": "The title says it all. I was attempting to build a javascript 3d engine but I figured it would now be with the work but it was a fun experiment. I eventually chose to go with the Three.js Libarry for 3d web-based graphics.",
-    "image": "placeholder.jpg" 
+    "image": "jvascrtip3dtest.png" 
 }
 ,
 {
