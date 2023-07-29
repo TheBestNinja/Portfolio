@@ -45,10 +45,10 @@
 ,
 {
     "type": "sec",
-    "title": "Stolen code for phishing emails",
+    "title": "A phishing email",
     "url": "https://codepen.io/guildshark/pen/oNNbaNB",
     "description": "This was before I was interested in HTML email development and I was testing if I could take a linked-in email template put my own info in it and use it as a phishing attack that would harvest the victim's credentials.",
-    "image": "placeholder.jpg" 
+    "image": "Stolenemailscreenshot.png" 
 }
 ,
 {
@@ -56,7 +56,7 @@
     "title": "Pure CCS game",
     "url": "https://codepen.io/guildshark/pen/ExYeReY",
     "description": "I got inspired by all the pure CSS games circulating on Code Pen. This was my attempt at one.",
-    "image": "placeholder.jpg" 
+    "image": "CSStrexrunner.png" 
 }
 ,
 {
@@ -64,7 +64,7 @@
     "title": "SASS pixel art",
     "url": "https://codepen.io/guildshark/pen/PMzYKL",
     "description": "The title says it all. It was a fun little project where I made pixel art with just SASS.",
-    "image": "placeholder.jpg" 
+    "image": "Farmer.by.Judgment.png" 
 }
 ,
 {
@@ -72,13 +72,34 @@
     "title": "CSS 3d cube ",
     "url": "https://codepen.io/guildshark/pen/YoJQbM",
     "description": "One of my many forays into web-based 3d graphics.",
-    "image": "placeholder.jpg" 
+    "image": "CSS3CubeJ_sportfolio.png" 
 },
 {
     "type": "webskill",
     "title": "CSS",
     "url": "#",
     "description": "",
-    "image": "js.PNG" 
+    "image": "CSS3emblemforskills.png" 
+},
+{
+    "type": "webskill",
+    "title": "HTML",
+    "url": "#",
+    "description": "",
+    "image": "HTML5emblem.Skills.png" 
+},
+{
+    "type": "webskill",
+    "title": "JS",
+    "url": "#",
+    "description": "",
+    "image": "kindpng_788026.png" 
+},
+{
+    "type": "webskill",
+    "title": "CSS",
+    "url": "#",
+    "description": "",
+    "image": "CSS3emblemforskills.png" 
 }
 ]
