@@ -124,10 +124,40 @@
     "image": "Boostrap.Logo.Skills.png" 
 },
 {
-    "type": "webskill",
-    "title": "CSS",
+    "type": "secskill",
+    "title": "Wireshark",
     "url": "#",
     "description": "",
-    "image": "CSS3emblemforskills.png" 
+    "image": "wireshrack.png"
+},
+{
+    "type": "secskill",
+    "title": "Autopsy",
+    "url": "#",
+    "description": "",
+    "image": "Autopsy-Digital-Forensics.png" 
+},
+{
+    "type": "secskill",
+    "title": "Service now",
+    "url": "#",
+    "description": "",
+    "image": "ServiceNow.Logo.Skills.png" 
+}
+,
+{
+    "type": "secskill",
+    "title": "Kali Linux",
+    "url": "#",
+    "description": "",
+    "image": "pngaaa.com-562677.png" 
+}
+,
+{
+    "type": "secskill",
+    "title": "Nmap/zenmap",
+    "url": "#",
+    "description": "",
+    "image": "NMAP.Logo.skills.png" 
 }
 ]

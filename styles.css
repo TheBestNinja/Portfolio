@@ -12,10 +12,9 @@ header{
 }
 
 .card-img-top{
-    width: 45vw;
-    height: 30vw;
+    width: 35vw;
+    height: 35vw;
     background: url('placeholder.jpg');
-    background-size: cover;
     border-radius: 3%;
 }
 
@@ -87,7 +86,6 @@ a{
     margin: auto;
     width: 80vw;
 }
-
 
 .card-main{
     border: 0.2rem solid white;
