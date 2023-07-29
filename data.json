@@ -104,52 +104,24 @@
 },
 {
     "type": "webskill",
-    "title": "CSS",
+    "title": "Angular",
     "url": "#",
     "description": "",
-    "image": "CSS3emblemforskills.png" 
+    "image": "Angular.Logo.Skills.png" 
 },
 {
     "type": "webskill",
-    "title": "CSS",
+    "title": "React Native",
     "url": "#",
     "description": "",
-    "image": "CSS3emblemforskills.png" 
+    "image": "React.Native.Logo.Skills.png" 
 },
 {
     "type": "webskill",
-    "title": "CSS",
+    "title": "Bootstrap",
     "url": "#",
     "description": "",
-    "image": "CSS3emblemforskills.png" 
-},
-{
-    "type": "webskill",
-    "title": "CSS",
-    "url": "#",
-    "description": "",
-    "image": "CSS3emblemforskills.png" 
-},
-{
-    "type": "webskill",
-    "title": "CSS",
-    "url": "#",
-    "description": "",
-    "image": "CSS3emblemforskills.png" 
-},
-{
-    "type": "webskill",
-    "title": "CSS",
-    "url": "#",
-    "description": "",
-    "image": "CSS3emblemforskills.png" 
-},
-{
-    "type": "webskill",
-    "title": "CSS",
-    "url": "#",
-    "description": "",
-    "image": "CSS3emblemforskills.png" 
+    "image": "Boostrap.Logo.Skills.png" 
 },
 {
     "type": "webskill",
