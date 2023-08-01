@@ -159,5 +159,12 @@
     "url": "#",
     "description": "",
     "image": "NMAP.Logo.skills.png" 
+},
+{
+    "type": "cert",
+    "title": "Free Code Camp",
+    "url": "https://www.freecodecamp.org/certification/fcce4140892/responsive-web-design",
+    "description": "",
+    "image": "fcc.png" 
 }
 ]
