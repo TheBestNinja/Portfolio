@@ -24,10 +24,10 @@ for(let i = 0; i != data.length; i++){
         } 
     }
     if(type == "allskill"){
-        if("web" == data[i].type){
+        if("webskill" == data[i].type){
             cardsToShow += card
         } 
-        else if("sec" == data[i].type){
+        else if("secskill" == data[i].type){
             cardsToShow += card
         } 
 }
