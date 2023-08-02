@@ -9,7 +9,7 @@ function sort(type){
     let cardsToShow = "";
     console.log(data)
 for(let i = 0; i != data.length; i++){
-    let card = " <a href='"+ data[i].url +"'> <div class='card-main d-flex row align-items-start'>  <h1 class='card-title  d-flex'>" + data[i].title + "</h1><div class='card-img-top  d-flex' style='background: url("+ data[i].image +"); background-size: " + data[i].size + "; background-repeat: no-repeat;'></div> <div class='card-body  d-flex'><p class='card-text  d-flex'>"+ data[i].description + "</p></div></div></a>"
+    let card = " <a href='"+ data[i].url +"'> <div class='card-main d-flex row align-items-start'>  <h1 class='card-title  d-flex'>" + data[i].title + "</h1><div class='card-img-top  d-flex' style='background: url("+ data[i].image +"); background-size: cover; background-repeat: no-repeat;'></div> <div class='card-body  d-flex'><p class='card-text  d-flex'>"+ data[i].description + "</p></div></div></a>"
   
     if(type == data[i].type){
         cardsToShow += card
