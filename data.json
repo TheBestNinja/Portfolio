@@ -44,7 +44,7 @@
     "type": "web",
     "title": "A basic 3d test",
     "url": "https://codepen.io/guildshark/pen/PowWyxa",
-    "description": "The title says it all. I was attempting to build a javascript 3d engine but I figured it would now be with the work but it was a fun experiment. I eventually chose to go with the Three.js Libarry for 3d web-based graphics.",
+    "description": "I was attempting to build a javascript 3d engine but I figured it would not be worth the work but it was a fun experiment. I eventually chose to go with the Three.js Libarry for 3d web-based graphics.",
     "image": "jvascrtip3dtest.png" ,
     "size":"35vw 35vw"
 }
