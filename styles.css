@@ -110,7 +110,9 @@ a{
         margin: auto;
         margin-bottom: 2vw;
     }
-
+    .card-title{
+        line-height: 100%;
+    }
     .card-img-top{
         width: 68vw;
         height: 68vw;
@@ -155,7 +157,9 @@ a{
         margin: auto;
         margin-bottom: 2vw;
     }
-
+    .card-title{
+        line-height: 100%;
+    }
     .card-img-top{
         width: 68vw;
         height: 68vw;
