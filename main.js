@@ -15,7 +15,7 @@ for(let i = 0; i != data.length; i++){
         cardsToShow += card
     }
 
-    if(type == "allweb"){
+    else if(type == "allweb"){
         if("web" == data[i].type){
             cardsToShow += card
         } 
@@ -23,7 +23,8 @@ for(let i = 0; i != data.length; i++){
             cardsToShow += card
         } 
     }
-    if(type == "allskill"){
+    
+    else if(type == "allskill"){
         if("webskill" == data[i].type){
             cardsToShow += card
         } 
