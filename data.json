@@ -102,7 +102,7 @@
 },
 {
     "type": "webskill",
-    "title": "JS",
+    "title": "Javascript",
     "url": "#",
     "description": "",
     "image": "kindpng_788026.png" ,
@@ -179,7 +179,7 @@
     "title": "Nmap/zenmap",
     "url": "#",
     "description": "",
-    "image": "NMAP.Logo.skills.png",
+    "image": "nmap.jpg",
     "size":"35vw 35vw" 
 },
 {
